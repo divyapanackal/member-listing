@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "age": 30,
+      "password": "john@123",
+      "gender": "Male"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "+1987654321",
+      "age": 28,
+      "password": "jane@123",
+      "gender": "Female"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "+1122334455",
+      "age": 35,
+      "password": "alice@123",
+      "gender": "Female"
+    },
+    {
+      "name": "Bob Williams",
+      "email": "bob.williams@example.com",
+      "phone": "+1223344556",
+      "age": 40,
+      "password": "bob@123",
+      "gender": "Male"
+    }
+  ]
+}

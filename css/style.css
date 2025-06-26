@@ -1,13 +1,23 @@
 table {
-      width: 80%;
-      border-collapse: collapse;
-      margin: 20px auto;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-      text-align: center;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+th {
+  background-color: #f2f2f2;
+}
+.pass-text {
+  filter: blur(5px);
+}
+.form-add {
+  display: none;
+}
+.form-add.show-form {
+  display: block;
+}
